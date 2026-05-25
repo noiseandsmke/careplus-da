@@ -1,5 +1,5 @@
 # Project's pipeline in AWS
-<img width="3248" height="1204" alt="image" src="https://github.com/user-attachments/assets/aa11e37a-789a-4647-a340-e2030b705943" />
+<img width="3400" height="1360" alt="image" src="https://github.com/user-attachments/assets/4c3f7974-2046-41b1-a2c9-59f683258cfc" />
 
 # Support tickets dashboard
 <img width="1876" height="926" alt="image" src="https://github.com/user-attachments/assets/4a1f129f-b9f4-4ca3-a3ff-ca7405a38e98" />
